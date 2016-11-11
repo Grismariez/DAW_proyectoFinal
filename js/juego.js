@@ -150,7 +150,7 @@ function moverVillano(){
 
 function frameLoop(){
 
-	//sonido.play();
+	sonido.play();
 	moverHeroe();
 	moverVillano();
 	drawBackground();
